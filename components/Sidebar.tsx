@@ -10,7 +10,8 @@ interface SidebarProps {
   isMobileOpen: boolean;
   onCloseMobile: () => void;
 }
-m
+mm
+
 const Sidebar: React.FC<SidebarProps> = ({
   user,
   activeView,
