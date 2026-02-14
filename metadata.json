@@ -1,0 +1,8 @@
+{
+  "name": "AI StudyMate",
+  "description": "An AI-powered study companion for college students featuring automated summarization, quiz generation, RAG-based questioning, and smart study planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
